@@ -1,7 +1,9 @@
-### Hi there 👋
+### Hi, I'm Rafael 👋
 
 <!--
 **RafaUribeG/RafaUribeG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+[![RafaUribeG's GitHub stats](https://github-readme-stats.vercel.app/api?username=RafaUribeG)](https://github.com/anuraghazra/github-readme-stats)
 
 Here are some ideas to get you started:
 
