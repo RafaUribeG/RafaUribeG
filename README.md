@@ -1,5 +1,7 @@
 ### Hi, I'm Rafael 👋
 
+- Android developer Trainee
+
 - 🌱 I’m currently learning **Kotlin and Android**
 
 <h3 align="left">Languages and Tools:</h3>
