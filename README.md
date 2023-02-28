@@ -28,7 +28,6 @@ profesionalmente, algunos de los framework que manejo en Android Studio son:
 Apasionado del deporte, en especial el fútbol. También me encantan los videojuegos, fui ProPlayer de Pro Evolution Soccer(actual Efootball 2023). 
 
 </br>
-- 💬 Ask me about **Kotlin - Android Studio - PostgreSQL**
 
 
 
