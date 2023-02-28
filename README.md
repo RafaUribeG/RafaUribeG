@@ -7,7 +7,7 @@
 <h3 align="left">🔹🏻 Acerca de mi:</h3>
 
 Soy Desarrollador Android Trainee, actualmente buscando mi primera experiencia en el desarrollo mobile, quiero seguir aprendiendo y creciendo
-profesionalmente, algunos de los framework que manejo en Adroid Studio son:
+profesionalmente, algunos de los framework que manejo en Android Studio son:
 
 - Retrofit
 
