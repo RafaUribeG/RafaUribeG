@@ -19,7 +19,7 @@ profesionalmente, algunos de los framework que manejo en Android Studio son:
 
 - Glide - Picasso
 
-- Injeccion de dependencias - Dagger Hilt
+- Inyección de dependencias - Dagger Hilt
 
 </br>
 
