@@ -19,7 +19,7 @@ Some of the frameworks I work with in Android Studio are:
 
 - Glide - Picasso
 
-- Inyección de dependencias - Dagger Hilt
+- Dagger Hilt(DI)
 
 </br>
 
