@@ -65,7 +65,6 @@ Passionate about sports, especially football. I also love video games; I was a P
 
 
 
-
 ## Languages:
 
 Spanish  <img src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cl.svg"  width="2%">
@@ -74,5 +73,7 @@ Intermediate English <img src="https://raw.githubusercontent.com/lipis/flag-icon
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=RafaUribeG&show_icons=true&locale=en&layout=compact" alt="rafauribeg" /></p>
 </br>
+
+![](https://komarev.com/ghpvc/?username=RafaUribeG&color=blue)
 
 
